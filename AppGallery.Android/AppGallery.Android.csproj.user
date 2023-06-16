@@ -3,7 +3,7 @@
   <PropertyGroup>
     <SelectedDevice>Motorola moto e6s</SelectedDevice>
     <ActiveDebugProfile>Motorola moto e6s</ActiveDebugProfile>
-    <DefaultDevice>pixel_5_-_api_28</DefaultDevice>
+    <DefaultDevice>pixel_2_-_api_28_1</DefaultDevice>
     <AndroidDesignerPreferredTheme>MainTheme</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>

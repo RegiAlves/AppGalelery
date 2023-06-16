@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FlyoutPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AppGallery.AppBase"
+             x:Class="AppGallery.AppBase.Menu">
+
+    <FlyoutPage.Flyout>
+        <ContentPage Title="Menu">
+            <StackLayout>
+                <Label Text="Páginas"/>
+                <Button Text="ContantPage" Clicked="AbrirContantPage"/>
+                <Button Text="NavigationPage" Clicked="AbrirNavigationPage"/>
+                <Button Text="TabbedPage" Clicked="AbrirCarouselPage"/>
+                <Button Text="CarouselPage" Clicked="AbrirTabbedPage"/>
+                <Button Text="FlyoutPage" Clicked="AbrirFlyoutPage"/>
+                <Button Text="Modal" Clicked="AbrirModal"/>
+            </StackLayout>
+        </ContentPage>
+
+    </FlyoutPage.Flyout>
+    <FlyoutPage.Detail>
+        <NavigationPage>
+            <x:Arguments>
+                <local:Inicio/>
+            </x:Arguments>
+        </NavigationPage>        
+    </FlyoutPage.Detail>
+
+</FlyoutPage>
+    
+    

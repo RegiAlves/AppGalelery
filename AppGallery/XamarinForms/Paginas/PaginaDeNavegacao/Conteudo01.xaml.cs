@@ -16,5 +16,11 @@ namespace AppGallery.XamarinForms.Paginas.PaginaDeNavegacao
         {
             InitializeComponent();
         }
+
+        private void AbrirPagina02(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Conteudo02());
+            
+        }
     }
 }

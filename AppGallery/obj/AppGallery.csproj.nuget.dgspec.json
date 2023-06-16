@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\Xamarin\\AppGallery\\AppGallery\\AppGallery.csproj": {}
+    "C:\\workspace\\AppGalelery\\AppGallery\\AppGallery.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\Xamarin\\AppGallery\\AppGallery\\AppGallery.csproj": {
+    "C:\\workspace\\AppGalelery\\AppGallery\\AppGallery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\Xamarin\\AppGallery\\AppGallery\\AppGallery.csproj",
+        "projectUniqueName": "C:\\workspace\\AppGalelery\\AppGallery\\AppGallery.csproj",
         "projectName": "AppGallery",
-        "projectPath": "C:\\workspace\\Xamarin\\AppGallery\\AppGallery\\AppGallery.csproj",
+        "projectPath": "C:\\workspace\\AppGalelery\\AppGallery\\AppGallery.csproj",
         "packagesPath": "C:\\Users\\regil\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\Xamarin\\AppGallery\\AppGallery\\obj\\",
+        "outputPath": "C:\\workspace\\AppGalelery\\AppGallery\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

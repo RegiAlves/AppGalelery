@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace AppGallery.XamarinForms.Paginas.PaginaDeConteudo
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Page1 : ContentPage
+    public partial class Conteudo01 : ContentPage
     {
-        public Page1()
+        public Conteudo01()
         {
             InitializeComponent();
         }
