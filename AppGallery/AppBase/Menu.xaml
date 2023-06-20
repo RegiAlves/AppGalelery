@@ -14,6 +14,9 @@
                 <Button Text="CarouselPage" Clicked="AbrirTabbedPage"/>
                 <Button Text="FlyoutPage" Clicked="AbrirFlyoutPage"/>
                 <Button Text="Modal" Clicked="AbrirModal"/>
+
+                <Label Text="Leiautes" />
+                <Button Text="Gride" Clicked="AbrirGrid"/>
             </StackLayout>
         </ContentPage>
 

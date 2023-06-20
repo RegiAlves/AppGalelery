@@ -54,5 +54,11 @@ namespace AppGallery.AppBase
             ((FlyoutPage)App.Current.MainPage).Detail = new XamarinForms.Paginas.Modal.Conteudo01();
             ((FlyoutPage)App.Current.MainPage).IsPresented = false;
         }
+
+        private void AbrirGrid(object sender, EventArgs e)
+        {
+            ((FlyoutPage)App.Current.MainPage).Detail = new XamarinForms.Leiautes.GridLeiautes.GradeGrid();
+            ((FlyoutPage)App.Current.MainPage).IsPresented = false;
+        }
     }
 }
